@@ -1,7 +1,7 @@
 {
-  "name": "BandClass 同步器插件",
+  "name": "BandClass 同步器",
   "icon": "icon.png",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "与 小米手环/红米手表快应用 BandClass 联动的插件，快速管理课程数据和设置项。课程表编辑前往：https://bandclass.netlify.app/editor/",
   "author": "qyhOH",
   "website": "https://bandclass.netlify.app/",
